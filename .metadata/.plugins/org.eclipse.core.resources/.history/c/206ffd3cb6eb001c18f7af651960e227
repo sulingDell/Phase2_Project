@@ -1,0 +1,14 @@
+
+#server config 
+server.port = 9009
+spring.application.name=userShopping-service
+
+
+# servlet contenxt path for global request mapping
+server.servlet.context-path=/api/userShopping-service
+
+# eureka config
+eureka.client.serviceUrl.defaultZone = http://localhost:9001/eureka
+
+#instance config
+eureka.instance.hostname=localhost

@@ -1,0 +1,5 @@
+package com.simplilearn.accounts.entity;
+
+public class Account {
+
+}

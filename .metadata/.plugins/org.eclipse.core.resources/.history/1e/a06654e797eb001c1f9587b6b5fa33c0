@@ -1,0 +1,11 @@
+package com.simplilearn.userAccounts.exception;
+
+public class userAccountAlreadyExist  extends RuntimeException{
+
+	private static final long serialVersionUID = 1L;
+	
+	public userAccountAlreadyExist(String message) {
+		super(message);
+	}
+
+}

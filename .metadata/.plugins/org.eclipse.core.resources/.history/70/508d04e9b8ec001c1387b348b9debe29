@@ -1,0 +1,5 @@
+package com.simplilearn.userShoppingCart.repositary;
+
+public interface ShoppingCartRepository extends JpaRepository<UserShoppingCart, Interger>{
+
+}

@@ -1,0 +1,5 @@
+package com.simplilearn.account.controller;
+
+public class AccountsController {
+
+}

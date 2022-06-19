@@ -1,0 +1,13 @@
+#server config 
+server.port = 9000
+spring.application.name=apigateway-service
+
+# eureka config
+eureka.client.serviceUrl.defaultZone = http://localhost:9001/eureka
+
+#instance config
+eureka.instance.hostname=localhost
+
+
+
+

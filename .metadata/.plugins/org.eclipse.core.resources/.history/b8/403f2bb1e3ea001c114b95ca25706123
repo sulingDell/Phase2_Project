@@ -1,0 +1,5 @@
+package com.simplilearn.gateway;
+
+public class Account {
+
+}

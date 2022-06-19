@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="apigateway-service"/>
+<aop-project name="accounts-service"/>
+<aop-project name="registry-service"/>
+<aop-project name="products-service"/>
+<aop-project name="medicineProducts-service"/>
+</aop-reference-model>

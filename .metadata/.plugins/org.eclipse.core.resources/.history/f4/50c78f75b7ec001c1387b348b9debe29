@@ -1,0 +1,5 @@
+package com.simplilearn.userShoppingCart.respositary;
+
+public class ShoppingCartRespository {
+
+}
